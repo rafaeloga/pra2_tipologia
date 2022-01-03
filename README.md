@@ -1,3 +1,21 @@
+# Introducción:
+
+## Autores
+
+- Rafael López García 
+- Carlos Luis Gento de Celis
+
+## Descripcion de los ficheros:
+
+En este repositorio podemos encontrar los siguientes ficheros y directorios:
+
+- DC_Presentacion.pptx: Presentación Power Point utilizada para la realización del video.
+- DC_Presentacion.pdf: Misma presentacion en formato PDF.
+- LimpiezaAnalasisDatosMini.mp4: Video presentación de la practica realizada.
+- PRA2_respuestas.rmd: fichero en formato "R Markdown" que contiene el codigo fuente y las explicaciones utilizadas para la elaboración del informe completo de la práctica.
+- PRA2_respuestas.pdf: fichero PDF que contiene el informe completo con todos los pasos realizados en la práctica.
+- Directorio "data": directorio que contiene los ficheros de datos utilizados en la realización de los datos.
+
 # Descripción del dataset
 
 ## Origen de los datos, agradecimientos y preguntas que se pretenden responder
